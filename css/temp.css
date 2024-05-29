@@ -1,0 +1,57 @@
+html {
+    background-color: white;
+  }
+  
+  container {
+    background-color: aliceblue;
+    width: 20%;
+    height: 20%;
+  }
+  
+  img {
+    width: 20%;
+    height: 60fr;
+  }
+  
+  .image {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .description .omelette{
+  background-color:  cadetblue;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+  .description .paragraph{
+      background-color:  coral;
+      font-family: "Outfit", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+  }
+  
+  .preparation-time{
+      margin: 20px 30px;
+      padding: 10px;
+  }
+  
+  .preparation-time .subtitle{
+      font-family: "Young Serif", serif;
+      font-weight: 400;
+      font-style: normal;
+  }
+  
+  
+  li{
+      font-family: "Outfit", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      list-style-type: square;
+  }
